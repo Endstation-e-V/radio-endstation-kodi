@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.radio_endstation" name="RADIO ENDSTATION" version="19.0.0" provider-name="Kodiman">
+<addon id="plugin.audio.radio_endstation" name="RADIO ENDSTATION" version="19.0.2" provider-name="Kodiman">
   <requires>
    <!--py3 compliant-->
 	<import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>
@@ -10,20 +10,20 @@
     <provides>audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-   <summary lang="en">Radio online stream.
-[COLOR blue]Created by Kodiman[/COLOR]</summary>
+   <summary lang="en">Internet radio station.
+[COLOR blue]Created by Kodiman edited by Lokke[/COLOR]</summary>
     <description lang="en">[COLOR green]DEINE NUMMER 1 IN O!¡ PUNK UND SKA[/COLOR]
 [COLOR blue]PYTHON 2 AND 3[/COLOR]</description>
     <platform>all</platform>
     <language>en</language>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <website>https://radio-endstation.jimdofree.com/</website>
-    <source>https://app.box.com/s/vc9jtbnupbu7cap1s8h2</source>
+    <website>https://radio-endstation.de/</website>
+    <source>https://downloads.kodiman.net/Kodi%2019%20Addons/Addons/</source>
     <email></email>
 	<assets>
         <icon>resources/icon.png</icon>
         <fanart>resources/fanart.jpg</fanart>
-        <banner></banner> <!-- optional -->
+        <banner>resources/logo2.png</banner> <!-- optional -->
         <clearlogo>resources/clearlogo.png</clearlogo> <!-- optional  -->
         <screenshot></screenshot> <!-- optional, max 10  -->
     </assets>
