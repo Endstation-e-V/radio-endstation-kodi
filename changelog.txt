@@ -1,0 +1,5 @@
+created by Kodiman
+https://forum.kodiman.company/
+
+First Version
+19.0.0 - 09.03.21 Python 2 und 3 Aktuell 3 (Kodi Matrix)
