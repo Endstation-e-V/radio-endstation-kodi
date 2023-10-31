@@ -15,7 +15,7 @@ __addon__ = xbmcaddon.Addon()
 #addon_path = addon.getAddonInfo('path')
 __addon_path__ = __fix_encoding__(__addon__.getAddonInfo('path'))
 
-name = "Krawall Radio"
+name = "Radio Endstation"
 url = "https://funkturm.radio-endstation.de/radio/8000/radio.mp3"
 image = os.path.join(__addon_path__,"resources/icon.png")
 
